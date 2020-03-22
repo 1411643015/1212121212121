@@ -7,6 +7,7 @@ import java.util.ArrayList;
  * @create 2020-03-22-16:46
  */
 public class TemplateTest {
+
     //模版一：psvm
     public static void main(String[] args) {
         //模版二：sout
