@@ -7,6 +7,7 @@ import java.util.ArrayList;
  */
 public class TemplateTest {
     //测试提交。。。。。。
+
     //模版一：psvm
     public static void main(String[] args) {
         //模版二：sout
